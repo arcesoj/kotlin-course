@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Kotlin Course</string>
+    <string name="happy_birthday_text">Happy Birthday Jose!</string>
+    <string name="from_text">From Esthefany</string>
 </resources>
